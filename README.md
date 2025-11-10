@@ -21,9 +21,9 @@ A simple Python script to automate clicks on the Human Benchmark reaction time t
 
 1.  **Clone the Repository:** Clone this repository to your local machine using Git:
     ```bash
-    git clone <repository_url>
+    git clone git@github.com:Kohi-jpg/simple-reaction-clicker-human-benchmark.git
     ```
-    (Replace `<repository_url>` with the actual URL of the repository, e.g., `https://github.com/Kohi-jpg/simple-reaction-clicker-human-benchmark.git`)
+    (Replace `git@github.com:Kohi-jpg/simple-reaction-clicker-human-benchmark.git` with the actual URL of the repository, e.g., `https://github.com/Kohi-jpg/simple-reaction-clicker-human-benchmark.git`)
 
 2.  **Navigate to the Directory:** Change your current directory to the cloned repository:
     ```bash
